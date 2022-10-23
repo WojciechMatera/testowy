@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.Write("");
+            Console.WriteLine("Drugie podejśćie");
         }
     }
 }
